@@ -1,4 +1,4 @@
-### Hi, I am Eduardo 👋
+<h1 align="center"> Hi, I am Eduardo 👋 </h1>
 <h3 align="center">A fullstack developer</h3>
 
 <h3 align="left">Connect with me:</h3>
